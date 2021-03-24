@@ -1,4 +1,4 @@
-package com.jj.ps03;
+package com.jj.ps.q2588;
 
 public class Problem1330 {
 

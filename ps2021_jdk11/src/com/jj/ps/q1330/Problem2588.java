@@ -1,4 +1,4 @@
-package com.jj.ps02;
+package com.jj.ps.q1330;
 
 import java.util.Scanner;
 

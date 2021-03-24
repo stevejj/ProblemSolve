@@ -1,4 +1,4 @@
-package com.jj.ps01;
+package com.jj.ps.q10171;
 
 public class Problem10171 {
 	/**
