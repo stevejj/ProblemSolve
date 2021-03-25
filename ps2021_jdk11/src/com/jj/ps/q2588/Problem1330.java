@@ -3,7 +3,13 @@ package com.jj.ps.q2588;
 import java.util.Scanner;
 
 public class Problem1330 {
-
+	/**
+	 * 문제번호 : 1330
+	 * @author laststars
+	 * 
+	 * 문제 참고 : https://www.acmicpc.net/problem/1330
+	 * 
+	 * */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int input1 = sc.nextInt();
